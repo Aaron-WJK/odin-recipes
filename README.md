@@ -1,0 +1,1 @@
+This project is intended to further develop my HTML skills. The assignment is to create a recipe website that includes a main index page with links to recipes. The project will be revisited later to encorporate CSS
