@@ -1,0 +1,27 @@
+body {
+    background-color:rgb(234, 236, 118);
+    
+}
+
+
+.Recipe {
+    color:rgb(15, 87, 121);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+ .Recipe.list { 
+    display: block;
+    font-size: 18px;
+    width: 75px;
+    height: 75px;
+    padding: 25px;
+    border: 5px;
+    border-style: solid;
+    margin: 10px;
+   
+    
+    background-color: rgb(221, 177, 96);
+    border-color: rgb(140, 173, 245);
+}
